@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/archienko" target="_blank">Arthur</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/archienko" target="_blank">Arthur 👋</a> 
 <h3 align="center">Developer from Russia</h3>
 
 ### My main focus is the development of functionality and the development of existing modules in the ERP system - axapta, but I also try myself in other directions.
